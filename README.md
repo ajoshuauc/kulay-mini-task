@@ -74,6 +74,10 @@ npx expo start
 
 Scan the QR code with Expo Go, or press `a` to open on a connected Android device/emulator.
 
+## Download the APK
+
+The latest Android APK is available under [Releases](../../releases/latest).
+
 ## Building the APK
 
 Requires a free [Expo account](https://expo.dev) and EAS CLI.
